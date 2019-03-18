@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Delivery</string>
+    <string name="obtain_view">ObtainView</string>
 </resources>
